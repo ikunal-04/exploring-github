@@ -1,0 +1,41 @@
+[33mcommit 0b66bcdeafb62195d60391847647d537c2728d20[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Kunal <kunalgarg054@gmail.com>
+Date:   Mon Oct 17 12:58:25 2022 +0530
+
+    Surname file is modified
+
+[33mcommit 9d144746bcffac165f6db2a215238497f67a901e[m
+Author: Kunal <kunalgarg054@gmail.com>
+Date:   Mon Oct 17 12:56:10 2022 +0530
+
+    House file is modified
+
+[33mcommit 33c2b114091d709209f577633d9b088a84b547f0[m
+Author: Kunal <kunalgarg054@gmail.com>
+Date:   Mon Oct 17 12:51:07 2022 +0530
+
+    house and surname file added
+
+[33mcommit 5c2de949a634a70a9a80b37499c2b1c1b3f273ec[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Kunal <kunalgarg054@gmail.com>
+Date:   Sun Oct 16 15:43:18 2022 +0530
+
+    New text file named house.txt created in dir1
+
+[33mcommit d8e7ffd9677975edbc4fbdff68a4eec356076fab[m
+Author: Kunal <kunalgarg054@gmail.com>
+Date:   Sun Oct 16 15:36:57 2022 +0530
+
+    Names.txt file is modified and again added from stash area
+
+[33mcommit 80daa724c9c413a27407c462a244c5f9b045a36c[m
+Author: Kunal <kunalgarg054@gmail.com>
+Date:   Fri Sep 23 23:47:46 2022 +0530
+
+    names.txt file modified
+
+[33mcommit 03db92d8db023585d60b9ae4f3df4eb0f930c261[m
+Author: Kunal <kunalgarg054@gmail.com>
+Date:   Fri Sep 23 23:26:33 2022 +0530
+
+    names.txt file added
